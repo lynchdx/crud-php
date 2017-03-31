@@ -1,0 +1,13 @@
+En autoload.php en carpeta config
+
+$autoload['libraries'] = array('database')
+$autoload['helper'] = array('url', 'form');
+
+En carpeta config, en config.php
+$config['base_url'] = 'http://localhost/crudphp/index.php';
+
+
+En carpeta config, en database.php
+
+
+

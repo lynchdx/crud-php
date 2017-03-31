@@ -1,0 +1,8 @@
+Base de datos
+
+=================
+
+1-.Crear base de datos llamada : proyectocrud_bd
+
+2-. Copiar contenido de script "proyectocrud_bd.sql" dentro de la base de datos.
+
